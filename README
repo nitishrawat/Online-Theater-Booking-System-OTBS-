@@ -1,0 +1,7 @@
+1. Install Netbeans and Apache TomCat 7.0 or higher
+2. Place the OTBS under CODE folder in NetbeansProject folder
+3. Restore DB dump to mySQL.
+4. Open Netbeans
+5. Build the OTBS project
+6. Run the project.
+7. Use in Web Browser
